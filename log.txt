@@ -1,0 +1,858 @@
+2026-07-21 22:34:28 | INFO     | Found 6 PDF(s) to process.
+2026-07-21 22:34:28 | INFO     | Processing 'scanned_record_1.pdf'...
+2026-07-21 22:34:57 | ERROR    | Failed to convert 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_1.pdf' to images: Image size (225342000 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+2026-07-21 22:34:57 | WARNING  | No name detected for 'scanned_record_1.pdf'. Using fallback name: Unknown_Harbor7660
+2026-07-21 22:34:57 | INFO     | 'scanned_record_1.pdf' -> 'Unknown_Harbor7660.pdf'
+2026-07-21 22:34:57 | INFO     | Processing 'scanned_record_2.pdf'...
+2026-07-21 22:35:10 | ERROR    | Failed to convert 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_2.pdf' to images: Image size (225342000 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+2026-07-21 22:35:10 | WARNING  | No name detected for 'scanned_record_2.pdf'. Using fallback name: Unknown_Ridge9963
+2026-07-21 22:35:10 | INFO     | 'scanned_record_2.pdf' -> 'Unknown_Ridge9963.pdf'
+2026-07-21 22:35:10 | INFO     | Processing 'scanned_record_3.pdf'...
+2026-07-21 22:35:20 | ERROR    | Failed to convert 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_3.pdf' to images: Image size (225342000 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+2026-07-21 22:35:20 | WARNING  | No name detected for 'scanned_record_3.pdf'. Using fallback name: Unknown_River7333
+2026-07-21 22:35:20 | INFO     | 'scanned_record_3.pdf' -> 'Unknown_River7333.pdf'
+2026-07-21 22:35:20 | INFO     | Processing 'scanned_record_4.pdf'...
+2026-07-21 22:35:32 | ERROR    | Failed to convert 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_4.pdf' to images: Image size (225342000 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+2026-07-21 22:35:32 | WARNING  | No name detected for 'scanned_record_4.pdf'. Using fallback name: Unknown_Meadow5891
+2026-07-21 22:35:32 | INFO     | 'scanned_record_4.pdf' -> 'Unknown_Meadow5891.pdf'
+2026-07-21 22:35:32 | INFO     | Processing 'scanned_record_5.pdf'...
+2026-07-21 22:35:48 | ERROR    | Failed to convert 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_5.pdf' to images: Image size (225342000 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+2026-07-21 22:35:48 | WARNING  | No name detected for 'scanned_record_5.pdf'. Using fallback name: Unknown_River4310
+2026-07-21 22:35:48 | INFO     | 'scanned_record_5.pdf' -> 'Unknown_River4310.pdf'
+2026-07-21 22:35:48 | INFO     | Processing 'scanned_record_6.pdf'...
+2026-07-21 22:36:01 | ERROR    | Failed to convert 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_6.pdf' to images: Image size (225342000 pixels) exceeds limit of 178956970 pixels, could be decompression bomb DOS attack.
+2026-07-21 22:36:01 | WARNING  | No name detected for 'scanned_record_6.pdf'. Using fallback name: Unknown_Sable8008
+2026-07-21 22:36:01 | INFO     | 'scanned_record_6.pdf' -> 'Unknown_Sable8008.pdf'
+2026-07-21 22:36:01 | INFO     | Done. 6/6 PDF(s) processed successfully.
+2026-07-21 22:36:01 | INFO     | Renamed PDFs are in: C:\Users\Pc\Desktop\PDF_Name_Renamer\renamed_pdfs
+2026-07-21 22:47:12 | INFO     | Found 6 PDF(s) to process.
+2026-07-21 22:47:12 | INFO     | Processing 'scanned_record_1.pdf'...
+2026-07-21 22:50:56 | ERROR    | OCR failed on an image: (1, 'Image too large: (34668, 26000) Error during processing.')
+2026-07-21 22:50:56 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_1.pdf':
+
+2026-07-21 22:50:56 | WARNING  | No name detected for 'scanned_record_1.pdf'. Using fallback name: Unknown_Marsh7644
+2026-07-21 22:50:56 | INFO     | 'scanned_record_1.pdf' -> 'Unknown_Marsh7644.pdf'
+2026-07-21 22:50:56 | INFO     | Processing 'scanned_record_2.pdf'...
+2026-07-21 22:54:21 | ERROR    | OCR failed on an image: (1, 'Image too large: (34668, 26000) Error during processing.')
+2026-07-21 22:54:21 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_2.pdf':
+
+2026-07-21 22:54:21 | WARNING  | No name detected for 'scanned_record_2.pdf'. Using fallback name: Unknown_Willow9729
+2026-07-21 22:54:21 | INFO     | 'scanned_record_2.pdf' -> 'Unknown_Willow9729.pdf'
+2026-07-21 22:54:21 | INFO     | Processing 'scanned_record_3.pdf'...
+2026-07-21 22:57:45 | ERROR    | OCR failed on an image: (1, 'Image too large: (34668, 26000) Error during processing.')
+2026-07-21 22:57:45 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_3.pdf':
+
+2026-07-21 22:57:46 | WARNING  | No name detected for 'scanned_record_3.pdf'. Using fallback name: Unknown_Granite8684
+2026-07-21 22:57:46 | INFO     | 'scanned_record_3.pdf' -> 'Unknown_Granite8684.pdf'
+2026-07-21 22:57:46 | INFO     | Processing 'scanned_record_4.pdf'...
+2026-07-21 23:01:17 | ERROR    | OCR failed on an image: (1, 'Image too large: (34668, 26000) Error during processing.')
+2026-07-21 23:01:17 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_4.pdf':
+
+2026-07-21 23:01:18 | WARNING  | No name detected for 'scanned_record_4.pdf'. Using fallback name: Unknown_Granite2168
+2026-07-21 23:01:18 | INFO     | 'scanned_record_4.pdf' -> 'Unknown_Granite2168.pdf'
+2026-07-21 23:01:18 | INFO     | Processing 'scanned_record_5.pdf'...
+2026-07-21 23:03:40 | ERROR    | OCR failed on an image: (1, 'Image too large: (34668, 26000) Error during processing.')
+2026-07-21 23:03:40 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_5.pdf':
+
+2026-07-21 23:03:40 | WARNING  | No name detected for 'scanned_record_5.pdf'. Using fallback name: Unknown_Comet7759
+2026-07-21 23:03:40 | INFO     | 'scanned_record_5.pdf' -> 'Unknown_Comet7759.pdf'
+2026-07-21 23:03:40 | INFO     | Processing 'scanned_record_6.pdf'...
+2026-07-21 23:06:20 | ERROR    | OCR failed on an image: (1, 'Image too large: (34668, 26000) Error during processing.')
+2026-07-21 23:06:20 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_6.pdf':
+
+2026-07-21 23:06:20 | WARNING  | No name detected for 'scanned_record_6.pdf'. Using fallback name: Unknown_Falcon1334
+2026-07-21 23:06:20 | INFO     | 'scanned_record_6.pdf' -> 'Unknown_Falcon1334.pdf'
+2026-07-21 23:06:20 | INFO     | Done. 6/6 PDF(s) processed successfully.
+2026-07-21 23:06:20 | INFO     | Renamed PDFs are in: C:\Users\Pc\Desktop\PDF_Name_Renamer\renamed_pdfs
+2026-07-21 23:36:11 | INFO     | Found 6 PDF(s) to process.
+2026-07-21 23:36:11 | INFO     | Processing 'scanned_record_1.pdf'...
+2026-07-21 23:39:22 | ERROR    | OCR failed on an image: (1, 'Image too large: (34668, 26000) Error during processing.')
+2026-07-21 23:39:22 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_1.pdf':
+
+2026-07-21 23:39:22 | WARNING  | No name detected for 'scanned_record_1.pdf'. Using fallback name: Gabriel_Asante
+2026-07-21 23:39:22 | INFO     | 'scanned_record_1.pdf' -> 'Gabriel_Asante.pdf'
+2026-07-21 23:39:22 | INFO     | Processing 'scanned_record_2.pdf'...
+2026-07-21 23:41:53 | ERROR    | OCR failed on an image: (1, 'Image too large: (34668, 26000) Error during processing.')
+2026-07-21 23:41:53 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_2.pdf':
+
+2026-07-21 23:41:53 | WARNING  | No name detected for 'scanned_record_2.pdf'. Using fallback name: Isaac_Gyasi
+2026-07-21 23:41:53 | INFO     | 'scanned_record_2.pdf' -> 'Isaac_Gyasi.pdf'
+2026-07-21 23:41:53 | INFO     | Processing 'scanned_record_3.pdf'...
+2026-07-21 23:44:29 | ERROR    | OCR failed on an image: (1, 'Image too large: (34668, 26000) Error during processing.')
+2026-07-21 23:44:29 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_3.pdf':
+
+2026-07-21 23:44:29 | WARNING  | No name detected for 'scanned_record_3.pdf'. Using fallback name: Linda_Amoah
+2026-07-21 23:44:29 | INFO     | 'scanned_record_3.pdf' -> 'Linda_Amoah.pdf'
+2026-07-21 23:44:29 | INFO     | Processing 'scanned_record_4.pdf'...
+2026-07-21 23:47:03 | ERROR    | OCR failed on an image: (1, 'Image too large: (34668, 26000) Error during processing.')
+2026-07-21 23:47:03 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_4.pdf':
+
+2026-07-21 23:47:03 | WARNING  | No name detected for 'scanned_record_4.pdf'. Using fallback name: Isaac_Owusu
+2026-07-21 23:47:03 | INFO     | 'scanned_record_4.pdf' -> 'Isaac_Owusu.pdf'
+2026-07-21 23:47:03 | INFO     | Processing 'scanned_record_5.pdf'...
+2026-07-21 23:49:15 | ERROR    | OCR failed on an image: (1, 'Image too large: (34668, 26000) Error during processing.')
+2026-07-21 23:49:15 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_5.pdf':
+
+2026-07-21 23:49:16 | WARNING  | No name detected for 'scanned_record_5.pdf'. Using fallback name: Efua_Adjei
+2026-07-21 23:49:16 | INFO     | 'scanned_record_5.pdf' -> 'Efua_Adjei.pdf'
+2026-07-21 23:49:16 | INFO     | Processing 'scanned_record_6.pdf'...
+2026-07-21 23:51:24 | ERROR    | OCR failed on an image: (1, 'Image too large: (34668, 26000) Error during processing.')
+2026-07-21 23:51:25 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_6.pdf':
+
+2026-07-21 23:51:25 | WARNING  | No name detected for 'scanned_record_6.pdf'. Using fallback name: Kofi_Gyasi
+2026-07-21 23:51:25 | INFO     | 'scanned_record_6.pdf' -> 'Kofi_Gyasi.pdf'
+2026-07-21 23:51:25 | INFO     | Done. 6/6 PDF(s) processed successfully.
+2026-07-21 23:51:25 | INFO     | Renamed PDFs are in: C:\Users\Pc\Desktop\PDF_Name_Renamer\renamed_pdfs
+2026-07-21 23:58:03 | INFO     | Found 6 PDF(s) to process.
+2026-07-21 23:58:03 | INFO     | Processing 'scanned_record_1.pdf'...
+2026-07-21 23:58:13 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_1.pdf':
+— TOE ALT pst PALA tesevie, _
+ee eo .. 4 : ) , % Ae cate , _ . J} ‘ , =
+} 4 /f’ a a | yi fy vi i tt ee AY, : | wi OO
+f ; , ! / 4 Kk my ‘ 4 # ld A : : ° aa “ f " ;
+| sS - ‘ “a ) é ; , . ¥ ~ , ,
+nn in aA WAL fry ie C |
+# | : _ | | “bo f 4 3 if hee { * » ) “ ro. € ® re | ~
+if /f ti KF. { io a A “ : A 4, 4 "a “
+fe Re a il ee “] he): ra ee
+= | / | a f * # Po ogy é. f € PY Wa y y : _. ; .
+| WA a tag tf FOG ‘ ry 4 Oh, i e ¢ ‘ ”
+| ao 1) 2 rie: wt | f ee Pot, | ke
+, a - ye € ae fy peg ep co . Pa 2 ”
+| Lr a a ee ts —- rr Laas,
+: pa Fog - | moe, nn ar" | *
+‘ f f . . 4 f . + z i
+i a | fi‘, . ard f 2
+, SI | . iy j | 4 . y “ee fF - ad tat § 4 co q
+* ; / a - / : f ’ ' af f | ~@ ¢
+: a re rr
+pod. ro wre og
+Ri a eee ces TS ee :
+
+2026-07-21 23:58:13 | WARNING  | No name detected for 'scanned_record_1.pdf'. Using fallback name: Mary_Sarpong
+2026-07-21 23:58:13 | INFO     | 'scanned_record_1.pdf' -> 'Mary_Sarpong.pdf'
+2026-07-21 23:58:13 | INFO     | Processing 'scanned_record_2.pdf'...
+2026-07-21 23:58:23 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_2.pdf':
+2 4 ., ; ; ; ‘ of
+GO" FFF, . |
+‘ 4 ad “le an =. Pe . wpe ee . . -
+. P . ve . 2
+| nee ——- tt ean |
+_ 3 4 , . , ,
+. a ”, wt afd
+oo - / - a e “ | - i Rw _ "
+: x. . ” - . call a.
+am ‘ “ ’ w Pod Sa a “7 “a a” a “ a ue .
+, a es - a ° a” “y -| SC a ae
+. . Y . ~”
+f . Py , , or a -f aes a . a a me a m .
+: . , 4 . o * - 7 ._ we , a “ Le
+. t x ” ft f - : ra . Pod we aa ” . £
+oe 4 at ow 7 7 iter “ q
+J a 4 ard f cs r , , - “ae a a
+. 7 ° or . , .
+na : - ay al : ° :
+7 a : a ¥ Ld os = 4
+- - a ? wv’. er . Cont eet ‘ - :
+= . e . wf oy . * a
+| ¢ IID 0a BO TOTO pte
+, ? a 4 -- oe rit a oS .
+| pa AME aa yi
+t . ri ee
+ae -
+| “fl wv; ~ |
+~ . 2 . rn ‘ Ane, _. ; . _ e . . a
+vs a rg .
+
+2026-07-21 23:58:23 | WARNING  | No name detected for 'scanned_record_2.pdf'. Using fallback name: Patience_Asante
+2026-07-21 23:58:23 | INFO     | 'scanned_record_2.pdf' -> 'Patience_Asante.pdf'
+2026-07-21 23:58:23 | INFO     | Processing 'scanned_record_3.pdf'...
+2026-07-21 23:58:32 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_3.pdf':
+nt i Ce — ° actu Bo PO : od .
+Ss. | 2, a oy
+Sg —
+* Tie ce . - 7 : Ra
+7 — _ iy . ¢
+— PATE @ DL \GNOsiS @ CLINICAL HINT Oi) @ PREAEMEN ET @ PRESCRIPTION ey
+, INISTRY OF HEALTH —— + mee |
+? . ~ a an Ve '
+a , ; we Po
+an \ ; . ~¢ —~ ~ . f ™ / 7 “ :
+Fad ~ ” . , . . .
+~~ wy Nea t — mee | - a{
+eae - . en Cr ; - i.
+. ra , “sO ino ~ ™ cm
+ae - ; ~— ra 7 a m4
+fee - a - * " ee . . a Newco P78 eee. ; a — ~
+I oo f- - ; a Pa ce?
+® on _ 3 ® . ; . . > 6 a re a ae @-—- eos? af : t; .¢8 \ ! a, £ , ’ ° ww , a —~ qu
+: : ~ 7 f e aS Wee
+: ; ; J ~ =. <
+{ . ‘ ~ we. a < > arn
+Cg , oar ™“ 4
+my - — ~ “ ” row . ; T~. are
+Hoe PR LEAD ! - |
+| | 4 | | | 2. |
+. —_ = ~ ( me a Oe eG . \
+a oe | a ba 3 OS oe |
+
+2026-07-21 23:58:32 | WARNING  | No name detected for 'scanned_record_3.pdf'. Using fallback name: Elizabeth_Adjei
+2026-07-21 23:58:32 | INFO     | 'scanned_record_3.pdf' -> 'Elizabeth_Adjei.pdf'
+2026-07-21 23:58:32 | INFO     | Processing 'scanned_record_4.pdf'...
+2026-07-21 23:58:42 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_4.pdf':
+-_— a: > Se ae 7 ee eee ee "3 F q =
+
+lS VEG a Oe ale ty
+bs. haan \ RA ENA ata CLANS AL tet INR. tite al MEN, PEACH I a
+awe “ate ORD ieibaienin I NE Renae ens
+Snr eran enane — \ ane 7 Pee OL, |
+
+rs YN \ * ‘ ‘\ \N ee \ ) \ t) \ “: \: | | 4,
+a | ‘ YY KNOY \y \ \ A 7m at RQ, \' | \ A * wv \ \
+
+J “ * ‘\ a eh ee oe yy WN Soll. gag AN i Vo
+ren VOR COTE OURS (DET 2 ES (Ue Yue uM ee |
+‘ ee RE Sl Yo ays ae sed
+a 4 ‘ “ ‘ he Qe , a nS - ‘ yh > \ VoD , |
+
+im, 3 .\ . , \ \ \ ° \ \\ \ A) \ \ ys, \\ ‘ a g
+
+4 ~ TN By Gag Na
+
+4 TA NV at Gan ae ee en
+
+fj ‘ \ SANA Re a Ws A ng \ NAN \S | a | ee |
+
+7 * aie. ony a ON o™ be WE LU . ) Ais ANY " wits ; Nae Hy woe ‘ Bo 5
+
+| ae RES es] at rn Ons |
+
+| . me ial \ oS KN Hawa dt Bane RET og
+
+So PON MayS om |
+: * . a Ny . ve *- aa i. , 3 ene Se ; Na | t rote re |
+Pech sisi ost o, ce A rm, - “’ j . ee EM he RS gk ge, "SPST AN tea marae + ORNR awe
+
+lence Record Card p. ,
+
+2026-07-21 23:58:42 | WARNING  | No name detected for 'scanned_record_4.pdf'. Using fallback name: Patience_Antwi
+2026-07-21 23:58:42 | INFO     | 'scanned_record_4.pdf' -> 'Patience_Antwi.pdf'
+2026-07-21 23:58:42 | INFO     | Processing 'scanned_record_5.pdf'...
+2026-07-21 23:58:54 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_5.pdf':
+7 LES ¢ Shean ae ee Te . . 2 REMY A freee Sol at : .
+elt Saad «0 oe Poets Sa ee oe . ' « baaee ho wey ; oot
+re yt yoot¢ tly #, Ms: : Ysa , Me Pe, . oo : : et
+. * “ os " 4 . - . ” -
+Fa cs oo" ¥ - = r , en — . . Cee ; a aed
+; . ; . ; a . pels woe i ae 3 . o
+A ’ t ° : [—— . . 3 -
+moe ;
+x . . ;
+. a ‘ oe . ¢ = . . - : . - oe
+ote } ie fe * } _— | | | ae
+- . t. . toe ¥ wot. . . . . " Press. . _
+oF el Tne —— teres. : ° .
+ny 0, heck ets seeaa _ " , sai Sey : -
+. : : r \ . : Oe Tm ay ° : . idm. -
+an : f ‘ PD . APM beeen, ma 7 it ~— ;
+“ow ; i i a 9 i 4 ad ie seer ote; . " ’ gis .
+. . v Ml. eR ‘ “ EO eer, . + api Nr a ae .
+‘ , ‘ 7 ma vhs Om SOE nee, - ot at; (fil re. , —— 5 ert ae a ee .
+. ; tm ee erie fo rd f = w - PN pers eres as bee .
+. . . . 4 me _ » Rn eS 1S ae oe et 42 x wi met FSGS} eal legs
+‘ 5 ~ . ” Tee ge tae : : res ites ue pines ip Pate. a, BS Coe Ps ae A
+or r hag ; { ‘iy Shs . “ Ne ee veg * Og Tea a fs P as SER cote iE a ae Wadia ir . fad - 3
+7 ; : é i. i | A ? * Z Vieee ig, ik 4 + oe Sex S . ;
+‘ ° P “. . os a ® ste, . . - ie 5 oo Sos aan a
+? ‘ wae TP i re aan arf a Pa ‘ a ee tie ta ae i ‘ . x
+. meee te. * OT a are . el oe . . eo
+bee ; : oan we, ¥ WH . Pa -
+- tag ‘ TE TEBE fqn ouenass .
+‘ ema + , . . 1 a ic,
+, an "Trea, ; - i « 3
+vt . ft tay Ae Nees «tb meee.
+eo oo . 4
+ne , — oot, _ -
+L ., . ft % FN eR rr teense wea, . ‘ , ‘
+‘ ta, ~ oe . .
+7 ¢ NR nat . . 4
+an y x 4a, l | . icaleh. eer oe
+‘ . ! : ey a,
+, t me , r *Te55, Pe i
+Ve “taal 3 ae ry, %
+t. rr Fe
+, any) tom
+j ae i >
+}. oe ‘ heey -
+s “HO, ol ,
+id ths, of ;
+; cot 4 fy D
+te, :
+és, f e
+. 4 "
+r aren 4
+‘ . “Et ey, :
+ta, J tty ‘ og
+Ate FA ‘
+"Try . . 3 1
+rm Yeu,
+P ea - 3
+i . ' 4tee, _ ¥
+* s
+ty fee, :
+me, . : aide 4
+, + _
+oe : Use, 4
+my ; f , a.
+oe . Se
+ae ea ; :
+A Tet he, , a
+: =
+re Shy - “-
+oe heey , ; ‘ %
+7 a Pha . gi
+' : FP ea ie baad 3
+i ‘ ; eee ; L 3
+> . 1 P a
+< \ , ‘ a LA
+. — a
+~ 7 om ry .. 4
+i. 4
+.&
+A te og a
+. “4
+ere
+“ a
+= 4 Gs: . “3
+. ” - Ty . me ete ot RE eae te af a Heng on nek es .-
+- iis ee - : . ie _. . hier a [on a4 m . ~ i -  o,  eee so
+Sone - Pt wee Pas ee . fo , . ~~ e _ ‘ a. ‘at bo ene
+are ° Vines ee oe rete oe oo Tey > ee a Nae oe ee a?
+" an . pp
+
+2026-07-21 23:58:54 | INFO     | Detected name for 'scanned_record_5.pdf': A te og a
+2026-07-21 23:58:54 | INFO     | 'scanned_record_5.pdf' -> 'A_te_og_a.pdf'
+2026-07-21 23:58:54 | INFO     | Processing 'scanned_record_6.pdf'...
+2026-07-21 23:59:04 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_6.pdf':
+EA h. , ai / Cy f/f 22 |
+1 | = ° ¢, CLINICAL HISTORY e TREATMENT e PR — T
+,- MINIstry CPHEALTH = [ext = bison oe eae CT «Se ae Se
+PP No me he pic SCC stoc AS
+aot : Other Names JNM eee oe
+M., ) 2nd O.p No. Be Zh Ce Sees Swe | | |
+ae f j Address (Home) _ Thm — Tite! 6 ai O ~# . -
+| i Of Llhiqeo Address (Employer) ae eT RES het ~~ ‘,
+! Non-Paying Age First Diagnosic Geese ges ey RS mo
+Sk Ce Or pla AI Kyisk{ -
+DATE e DIAGNOsIs e CLINICAL HisToRy ¢ SEATMENT © PRESCRIPTION ae D teal f / Se 5 _
+| pulse ey, Ate .
+Wal Fy a BS = pele a (Oo moe; Peng .
+| [1 | —_ J ADC af Ce RELINO, ly fo Oy fiende Reb LM . ;
+| ——————_
+
+2026-07-21 23:59:04 | INFO     | Detected name for 'scanned_record_6.pdf': Jnm Eee Oe M
+2026-07-21 23:59:04 | INFO     | 'scanned_record_6.pdf' -> 'Jnm_Eee_Oe_M.pdf'
+2026-07-21 23:59:04 | INFO     | Done. 6/6 PDF(s) processed successfully.
+2026-07-21 23:59:04 | INFO     | Renamed PDFs are in: C:\Users\Pc\Desktop\PDF_Name_Renamer\renamed_pdfs
+2026-07-22 00:20:39 | INFO     | Found 6 PDF(s) to process.
+2026-07-22 00:20:39 | INFO     | Processing 'scanned_record_1.pdf'...
+2026-07-22 00:20:49 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_1.pdf':
+— TOE ALT pst PALA tesevie, _
+ee eo .. 4 : ) , % Ae cate , _ . J} ‘ , =
+} 4 /f’ a a | yi fy vi i tt ee AY, : | wi OO
+f ; , ! / 4 Kk my ‘ 4 # ld A : : ° aa “ f " ;
+| sS - ‘ “a ) é ; , . ¥ ~ , ,
+nn in aA WAL fry ie C |
+# | : _ | | “bo f 4 3 if hee { * » ) “ ro. € ® re | ~
+if /f ti KF. { io a A “ : A 4, 4 "a “
+fe Re a il ee “] he): ra ee
+= | / | a f * # Po ogy é. f € PY Wa y y : _. ; .
+| WA a tag tf FOG ‘ ry 4 Oh, i e ¢ ‘ ”
+| ao 1) 2 rie: wt | f ee Pot, | ke
+, a - ye € ae fy peg ep co . Pa 2 ”
+| Lr a a ee ts —- rr Laas,
+: pa Fog - | moe, nn ar" | *
+‘ f f . . 4 f . + z i
+i a | fi‘, . ard f 2
+, SI | . iy j | 4 . y “ee fF - ad tat § 4 co q
+* ; / a - / : f ’ ' af f | ~@ ¢
+: a re rr
+pod. ro wre og
+Ri a eee ces TS ee :
+
+2026-07-22 00:20:49 | WARNING  | No name detected for 'scanned_record_1.pdf'. Using fallback name: Priscilla_Agyemang
+2026-07-22 00:20:49 | INFO     | 'scanned_record_1.pdf' -> 'Priscilla_Agyemang.pdf'
+2026-07-22 00:20:49 | INFO     | Processing 'scanned_record_2.pdf'...
+2026-07-22 00:20:58 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_2.pdf':
+2 4 ., ; ; ; ‘ of
+GO" FFF, . |
+‘ 4 ad “le an =. Pe . wpe ee . . -
+. P . ve . 2
+| nee ——- tt ean |
+_ 3 4 , . , ,
+. a ”, wt afd
+oo - / - a e “ | - i Rw _ "
+: x. . ” - . call a.
+am ‘ “ ’ w Pod Sa a “7 “a a” a “ a ue .
+, a es - a ° a” “y -| SC a ae
+. . Y . ~”
+f . Py , , or a -f aes a . a a me a m .
+: . , 4 . o * - 7 ._ we , a “ Le
+. t x ” ft f - : ra . Pod we aa ” . £
+oe 4 at ow 7 7 iter “ q
+J a 4 ard f cs r , , - “ae a a
+. 7 ° or . , .
+na : - ay al : ° :
+7 a : a ¥ Ld os = 4
+- - a ? wv’. er . Cont eet ‘ - :
+= . e . wf oy . * a
+| ¢ IID 0a BO TOTO pte
+, ? a 4 -- oe rit a oS .
+| pa AME aa yi
+t . ri ee
+ae -
+| “fl wv; ~ |
+~ . 2 . rn ‘ Ane, _. ; . _ e . . a
+vs a rg .
+
+2026-07-22 00:20:58 | WARNING  | No name detected for 'scanned_record_2.pdf'. Using fallback name: David_Darko
+2026-07-22 00:20:58 | INFO     | 'scanned_record_2.pdf' -> 'David_Darko.pdf'
+2026-07-22 00:20:58 | INFO     | Processing 'scanned_record_3.pdf'...
+2026-07-22 00:21:07 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_3.pdf':
+nt i Ce — ° actu Bo PO : od .
+Ss. | 2, a oy
+Sg —
+* Tie ce . - 7 : Ra
+7 — _ iy . ¢
+— PATE @ DL \GNOsiS @ CLINICAL HINT Oi) @ PREAEMEN ET @ PRESCRIPTION ey
+, INISTRY OF HEALTH —— + mee |
+? . ~ a an Ve '
+a , ; we Po
+an \ ; . ~¢ —~ ~ . f ™ / 7 “ :
+Fad ~ ” . , . . .
+~~ wy Nea t — mee | - a{
+eae - . en Cr ; - i.
+. ra , “sO ino ~ ™ cm
+ae - ; ~— ra 7 a m4
+fee - a - * " ee . . a Newco P78 eee. ; a — ~
+I oo f- - ; a Pa ce?
+® on _ 3 ® . ; . . > 6 a re a ae @-—- eos? af : t; .¢8 \ ! a, £ , ’ ° ww , a —~ qu
+: : ~ 7 f e aS Wee
+: ; ; J ~ =. <
+{ . ‘ ~ we. a < > arn
+Cg , oar ™“ 4
+my - — ~ “ ” row . ; T~. are
+Hoe PR LEAD ! - |
+| | 4 | | | 2. |
+. —_ = ~ ( me a Oe eG . \
+a oe | a ba 3 OS oe |
+
+2026-07-22 00:21:07 | WARNING  | No name detected for 'scanned_record_3.pdf'. Using fallback name: Efua_Antwi
+2026-07-22 00:21:07 | INFO     | 'scanned_record_3.pdf' -> 'Efua_Antwi.pdf'
+2026-07-22 00:21:07 | INFO     | Processing 'scanned_record_4.pdf'...
+2026-07-22 00:21:17 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_4.pdf':
+-_— a: > Se ae 7 ee eee ee "3 F q =
+
+lS VEG a Oe ale ty
+bs. haan \ RA ENA ata CLANS AL tet INR. tite al MEN, PEACH I a
+awe “ate ORD ieibaienin I NE Renae ens
+Snr eran enane — \ ane 7 Pee OL, |
+
+rs YN \ * ‘ ‘\ \N ee \ ) \ t) \ “: \: | | 4,
+a | ‘ YY KNOY \y \ \ A 7m at RQ, \' | \ A * wv \ \
+
+J “ * ‘\ a eh ee oe yy WN Soll. gag AN i Vo
+ren VOR COTE OURS (DET 2 ES (Ue Yue uM ee |
+‘ ee RE Sl Yo ays ae sed
+a 4 ‘ “ ‘ he Qe , a nS - ‘ yh > \ VoD , |
+
+im, 3 .\ . , \ \ \ ° \ \\ \ A) \ \ ys, \\ ‘ a g
+
+4 ~ TN By Gag Na
+
+4 TA NV at Gan ae ee en
+
+fj ‘ \ SANA Re a Ws A ng \ NAN \S | a | ee |
+
+7 * aie. ony a ON o™ be WE LU . ) Ais ANY " wits ; Nae Hy woe ‘ Bo 5
+
+| ae RES es] at rn Ons |
+
+| . me ial \ oS KN Hawa dt Bane RET og
+
+So PON MayS om |
+: * . a Ny . ve *- aa i. , 3 ene Se ; Na | t rote re |
+Pech sisi ost o, ce A rm, - “’ j . ee EM he RS gk ge, "SPST AN tea marae + ORNR awe
+
+lence Record Card p. ,
+
+2026-07-22 00:21:17 | WARNING  | No name detected for 'scanned_record_4.pdf'. Using fallback name: Emmanuel_Agyemang
+2026-07-22 00:21:17 | INFO     | 'scanned_record_4.pdf' -> 'Emmanuel_Agyemang.pdf'
+2026-07-22 00:21:17 | INFO     | Processing 'scanned_record_5.pdf'...
+2026-07-22 00:21:28 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_5.pdf':
+7 LES ¢ Shean ae ee Te . . 2 REMY A freee Sol at : .
+elt Saad «0 oe Poets Sa ee oe . ' « baaee ho wey ; oot
+re yt yoot¢ tly #, Ms: : Ysa , Me Pe, . oo : : et
+. * “ os " 4 . - . ” -
+Fa cs oo" ¥ - = r , en — . . Cee ; a aed
+; . ; . ; a . pels woe i ae 3 . o
+A ’ t ° : [—— . . 3 -
+moe ;
+x . . ;
+. a ‘ oe . ¢ = . . - : . - oe
+ote } ie fe * } _— | | | ae
+- . t. . toe ¥ wot. . . . . " Press. . _
+oF el Tne —— teres. : ° .
+ny 0, heck ets seeaa _ " , sai Sey : -
+. : : r \ . : Oe Tm ay ° : . idm. -
+an : f ‘ PD . APM beeen, ma 7 it ~— ;
+“ow ; i i a 9 i 4 ad ie seer ote; . " ’ gis .
+. . v Ml. eR ‘ “ EO eer, . + api Nr a ae .
+‘ , ‘ 7 ma vhs Om SOE nee, - ot at; (fil re. , —— 5 ert ae a ee .
+. ; tm ee erie fo rd f = w - PN pers eres as bee .
+. . . . 4 me _ » Rn eS 1S ae oe et 42 x wi met FSGS} eal legs
+‘ 5 ~ . ” Tee ge tae : : res ites ue pines ip Pate. a, BS Coe Ps ae A
+or r hag ; { ‘iy Shs . “ Ne ee veg * Og Tea a fs P as SER cote iE a ae Wadia ir . fad - 3
+7 ; : é i. i | A ? * Z Vieee ig, ik 4 + oe Sex S . ;
+‘ ° P “. . os a ® ste, . . - ie 5 oo Sos aan a
+? ‘ wae TP i re aan arf a Pa ‘ a ee tie ta ae i ‘ . x
+. meee te. * OT a are . el oe . . eo
+bee ; : oan we, ¥ WH . Pa -
+- tag ‘ TE TEBE fqn ouenass .
+‘ ema + , . . 1 a ic,
+, an "Trea, ; - i « 3
+vt . ft tay Ae Nees «tb meee.
+eo oo . 4
+ne , — oot, _ -
+L ., . ft % FN eR rr teense wea, . ‘ , ‘
+‘ ta, ~ oe . .
+7 ¢ NR nat . . 4
+an y x 4a, l | . icaleh. eer oe
+‘ . ! : ey a,
+, t me , r *Te55, Pe i
+Ve “taal 3 ae ry, %
+t. rr Fe
+, any) tom
+j ae i >
+}. oe ‘ heey -
+s “HO, ol ,
+id ths, of ;
+; cot 4 fy D
+te, :
+és, f e
+. 4 "
+r aren 4
+‘ . “Et ey, :
+ta, J tty ‘ og
+Ate FA ‘
+"Try . . 3 1
+rm Yeu,
+P ea - 3
+i . ' 4tee, _ ¥
+* s
+ty fee, :
+me, . : aide 4
+, + _
+oe : Use, 4
+my ; f , a.
+oe . Se
+ae ea ; :
+A Tet he, , a
+: =
+re Shy - “-
+oe heey , ; ‘ %
+7 a Pha . gi
+' : FP ea ie baad 3
+i ‘ ; eee ; L 3
+> . 1 P a
+< \ , ‘ a LA
+. — a
+~ 7 om ry .. 4
+i. 4
+.&
+A te og a
+. “4
+ere
+“ a
+= 4 Gs: . “3
+. ” - Ty . me ete ot RE eae te af a Heng on nek es .-
+- iis ee - : . ie _. . hier a [on a4 m . ~ i -  o,  eee so
+Sone - Pt wee Pas ee . fo , . ~~ e _ ‘ a. ‘at bo ene
+are ° Vines ee oe rete oe oo Tey > ee a Nae oe ee a?
+" an . pp
+
+2026-07-22 00:21:28 | WARNING  | No name detected for 'scanned_record_5.pdf'. Using fallback name: Emmanuel_Antwi
+2026-07-22 00:21:28 | INFO     | 'scanned_record_5.pdf' -> 'Emmanuel_Antwi.pdf'
+2026-07-22 00:21:28 | INFO     | Processing 'scanned_record_6.pdf'...
+2026-07-22 00:21:39 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_6.pdf':
+EA h. , ai / Cy f/f 22 |
+1 | = ° ¢, CLINICAL HISTORY e TREATMENT e PR — T
+,- MINIstry CPHEALTH = [ext = bison oe eae CT «Se ae Se
+PP No me he pic SCC stoc AS
+aot : Other Names JNM eee oe
+M., ) 2nd O.p No. Be Zh Ce Sees Swe | | |
+ae f j Address (Home) _ Thm — Tite! 6 ai O ~# . -
+| i Of Llhiqeo Address (Employer) ae eT RES het ~~ ‘,
+! Non-Paying Age First Diagnosic Geese ges ey RS mo
+Sk Ce Or pla AI Kyisk{ -
+DATE e DIAGNOsIs e CLINICAL HisToRy ¢ SEATMENT © PRESCRIPTION ae D teal f / Se 5 _
+| pulse ey, Ate .
+Wal Fy a BS = pele a (Oo moe; Peng .
+| [1 | —_ J ADC af Ce RELINO, ly fo Oy fiende Reb LM . ;
+| ——————_
+
+2026-07-22 00:21:39 | WARNING  | No name detected for 'scanned_record_6.pdf'. Using fallback name: Efua_Antwi
+2026-07-22 00:21:39 | INFO     | 'scanned_record_6.pdf' -> 'Efua_Antwi_2.pdf'
+2026-07-22 00:21:39 | INFO     | Done. 6/6 PDF(s) processed successfully.
+2026-07-22 00:21:39 | INFO     | Renamed PDFs are in: C:\Users\Pc\Desktop\PDF_Name_Renamer\renamed_pdfs
+2026-07-22 01:18:26 | INFO     | Found 6 PDF(s) to process.
+2026-07-22 01:18:26 | INFO     | Processing 'scanned_record_1.pdf'...
+2026-07-22 01:18:36 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_1.pdf':
+— TOE ALT pst PALA tesevie, _
+ee eo .. 4 : ) , % Ae cate , _ . J} ‘ , =
+} 4 /f’ a a | yi fy vi i tt ee AY, : | wi OO
+f ; , ! / 4 Kk my ‘ 4 # ld A : : ° aa “ f " ;
+| sS - ‘ “a ) é ; , . ¥ ~ , ,
+nn in aA WAL fry ie C |
+# | : _ | | “bo f 4 3 if hee { * » ) “ ro. € ® re | ~
+if /f ti KF. { io a A “ : A 4, 4 "a “
+fe Re a il ee “] he): ra ee
+= | / | a f * # Po ogy é. f € PY Wa y y : _. ; .
+| WA a tag tf FOG ‘ ry 4 Oh, i e ¢ ‘ ”
+| ao 1) 2 rie: wt | f ee Pot, | ke
+, a - ye € ae fy peg ep co . Pa 2 ”
+| Lr a a ee ts —- rr Laas,
+: pa Fog - | moe, nn ar" | *
+‘ f f . . 4 f . + z i
+i a | fi‘, . ard f 2
+, SI | . iy j | 4 . y “ee fF - ad tat § 4 co q
+* ; / a - / : f ’ ' af f | ~@ ¢
+: a re rr
+pod. ro wre og
+Ri a eee ces TS ee :
+
+2026-07-22 01:18:36 | WARNING  | No name detected for 'scanned_record_1.pdf'. Using fallback name: Priscilla_Addo
+2026-07-22 01:18:36 | INFO     | 'scanned_record_1.pdf' -> 'Priscilla_Addo.pdf'
+2026-07-22 01:18:36 | INFO     | Processing 'scanned_record_2.pdf'...
+2026-07-22 01:18:47 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_2.pdf':
+2 4 ., ; ; ; ‘ of
+GO" FFF, . |
+‘ 4 ad “le an =. Pe . wpe ee . . -
+. P . ve . 2
+| nee ——- tt ean |
+_ 3 4 , . , ,
+. a ”, wt afd
+oo - / - a e “ | - i Rw _ "
+: x. . ” - . call a.
+am ‘ “ ’ w Pod Sa a “7 “a a” a “ a ue .
+, a es - a ° a” “y -| SC a ae
+. . Y . ~”
+f . Py , , or a -f aes a . a a me a m .
+: . , 4 . o * - 7 ._ we , a “ Le
+. t x ” ft f - : ra . Pod we aa ” . £
+oe 4 at ow 7 7 iter “ q
+J a 4 ard f cs r , , - “ae a a
+. 7 ° or . , .
+na : - ay al : ° :
+7 a : a ¥ Ld os = 4
+- - a ? wv’. er . Cont eet ‘ - :
+= . e . wf oy . * a
+| ¢ IID 0a BO TOTO pte
+, ? a 4 -- oe rit a oS .
+| pa AME aa yi
+t . ri ee
+ae -
+| “fl wv; ~ |
+~ . 2 . rn ‘ Ane, _. ; . _ e . . a
+vs a rg .
+
+2026-07-22 01:18:47 | WARNING  | No name detected for 'scanned_record_2.pdf'. Using fallback name: Samuel_Frimpong
+2026-07-22 01:18:47 | INFO     | 'scanned_record_2.pdf' -> 'Samuel_Frimpong.pdf'
+2026-07-22 01:18:47 | INFO     | Processing 'scanned_record_3.pdf'...
+2026-07-22 01:18:57 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_3.pdf':
+nt i Ce — ° actu Bo PO : od .
+Ss. | 2, a oy
+Sg —
+* Tie ce . - 7 : Ra
+7 — _ iy . ¢
+— PATE @ DL \GNOsiS @ CLINICAL HINT Oi) @ PREAEMEN ET @ PRESCRIPTION ey
+, INISTRY OF HEALTH —— + mee |
+? . ~ a an Ve '
+a , ; we Po
+an \ ; . ~¢ —~ ~ . f ™ / 7 “ :
+Fad ~ ” . , . . .
+~~ wy Nea t — mee | - a{
+eae - . en Cr ; - i.
+. ra , “sO ino ~ ™ cm
+ae - ; ~— ra 7 a m4
+fee - a - * " ee . . a Newco P78 eee. ; a — ~
+I oo f- - ; a Pa ce?
+® on _ 3 ® . ; . . > 6 a re a ae @-—- eos? af : t; .¢8 \ ! a, £ , ’ ° ww , a —~ qu
+: : ~ 7 f e aS Wee
+: ; ; J ~ =. <
+{ . ‘ ~ we. a < > arn
+Cg , oar ™“ 4
+my - — ~ “ ” row . ; T~. are
+Hoe PR LEAD ! - |
+| | 4 | | | 2. |
+. —_ = ~ ( me a Oe eG . \
+a oe | a ba 3 OS oe |
+
+2026-07-22 01:18:57 | WARNING  | No name detected for 'scanned_record_3.pdf'. Using fallback name: Kofi_Owusu
+2026-07-22 01:18:57 | INFO     | 'scanned_record_3.pdf' -> 'Kofi_Owusu.pdf'
+2026-07-22 01:18:57 | INFO     | Processing 'scanned_record_4.pdf'...
+2026-07-22 01:19:08 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_4.pdf':
+-_— a: > Se ae 7 ee eee ee "3 F q =
+
+lS VEG a Oe ale ty
+bs. haan \ RA ENA ata CLANS AL tet INR. tite al MEN, PEACH I a
+awe “ate ORD ieibaienin I NE Renae ens
+Snr eran enane — \ ane 7 Pee OL, |
+
+rs YN \ * ‘ ‘\ \N ee \ ) \ t) \ “: \: | | 4,
+a | ‘ YY KNOY \y \ \ A 7m at RQ, \' | \ A * wv \ \
+
+J “ * ‘\ a eh ee oe yy WN Soll. gag AN i Vo
+ren VOR COTE OURS (DET 2 ES (Ue Yue uM ee |
+‘ ee RE Sl Yo ays ae sed
+a 4 ‘ “ ‘ he Qe , a nS - ‘ yh > \ VoD , |
+
+im, 3 .\ . , \ \ \ ° \ \\ \ A) \ \ ys, \\ ‘ a g
+
+4 ~ TN By Gag Na
+
+4 TA NV at Gan ae ee en
+
+fj ‘ \ SANA Re a Ws A ng \ NAN \S | a | ee |
+
+7 * aie. ony a ON o™ be WE LU . ) Ais ANY " wits ; Nae Hy woe ‘ Bo 5
+
+| ae RES es] at rn Ons |
+
+| . me ial \ oS KN Hawa dt Bane RET og
+
+So PON MayS om |
+: * . a Ny . ve *- aa i. , 3 ene Se ; Na | t rote re |
+Pech sisi ost o, ce A rm, - “’ j . ee EM he RS gk ge, "SPST AN tea marae + ORNR awe
+
+lence Record Card p. ,
+
+2026-07-22 01:19:08 | WARNING  | No name detected for 'scanned_record_4.pdf'. Using fallback name: Michael_Adjei
+2026-07-22 01:19:08 | INFO     | 'scanned_record_4.pdf' -> 'Michael_Adjei.pdf'
+2026-07-22 01:19:08 | INFO     | Processing 'scanned_record_5.pdf'...
+2026-07-22 01:19:20 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_5.pdf':
+7 LES ¢ Shean ae ee Te . . 2 REMY A freee Sol at : .
+elt Saad «0 oe Poets Sa ee oe . ' « baaee ho wey ; oot
+re yt yoot¢ tly #, Ms: : Ysa , Me Pe, . oo : : et
+. * “ os " 4 . - . ” -
+Fa cs oo" ¥ - = r , en — . . Cee ; a aed
+; . ; . ; a . pels woe i ae 3 . o
+A ’ t ° : [—— . . 3 -
+moe ;
+x . . ;
+. a ‘ oe . ¢ = . . - : . - oe
+ote } ie fe * } _— | | | ae
+- . t. . toe ¥ wot. . . . . " Press. . _
+oF el Tne —— teres. : ° .
+ny 0, heck ets seeaa _ " , sai Sey : -
+. : : r \ . : Oe Tm ay ° : . idm. -
+an : f ‘ PD . APM beeen, ma 7 it ~— ;
+“ow ; i i a 9 i 4 ad ie seer ote; . " ’ gis .
+. . v Ml. eR ‘ “ EO eer, . + api Nr a ae .
+‘ , ‘ 7 ma vhs Om SOE nee, - ot at; (fil re. , —— 5 ert ae a ee .
+. ; tm ee erie fo rd f = w - PN pers eres as bee .
+. . . . 4 me _ » Rn eS 1S ae oe et 42 x wi met FSGS} eal legs
+‘ 5 ~ . ” Tee ge tae : : res ites ue pines ip Pate. a, BS Coe Ps ae A
+or r hag ; { ‘iy Shs . “ Ne ee veg * Og Tea a fs P as SER cote iE a ae Wadia ir . fad - 3
+7 ; : é i. i | A ? * Z Vieee ig, ik 4 + oe Sex S . ;
+‘ ° P “. . os a ® ste, . . - ie 5 oo Sos aan a
+? ‘ wae TP i re aan arf a Pa ‘ a ee tie ta ae i ‘ . x
+. meee te. * OT a are . el oe . . eo
+bee ; : oan we, ¥ WH . Pa -
+- tag ‘ TE TEBE fqn ouenass .
+‘ ema + , . . 1 a ic,
+, an "Trea, ; - i « 3
+vt . ft tay Ae Nees «tb meee.
+eo oo . 4
+ne , — oot, _ -
+L ., . ft % FN eR rr teense wea, . ‘ , ‘
+‘ ta, ~ oe . .
+7 ¢ NR nat . . 4
+an y x 4a, l | . icaleh. eer oe
+‘ . ! : ey a,
+, t me , r *Te55, Pe i
+Ve “taal 3 ae ry, %
+t. rr Fe
+, any) tom
+j ae i >
+}. oe ‘ heey -
+s “HO, ol ,
+id ths, of ;
+; cot 4 fy D
+te, :
+és, f e
+. 4 "
+r aren 4
+‘ . “Et ey, :
+ta, J tty ‘ og
+Ate FA ‘
+"Try . . 3 1
+rm Yeu,
+P ea - 3
+i . ' 4tee, _ ¥
+* s
+ty fee, :
+me, . : aide 4
+, + _
+oe : Use, 4
+my ; f , a.
+oe . Se
+ae ea ; :
+A Tet he, , a
+: =
+re Shy - “-
+oe heey , ; ‘ %
+7 a Pha . gi
+' : FP ea ie baad 3
+i ‘ ; eee ; L 3
+> . 1 P a
+< \ , ‘ a LA
+. — a
+~ 7 om ry .. 4
+i. 4
+.&
+A te og a
+. “4
+ere
+“ a
+= 4 Gs: . “3
+. ” - Ty . me ete ot RE eae te af a Heng on nek es .-
+- iis ee - : . ie _. . hier a [on a4 m . ~ i -  o,  eee so
+Sone - Pt wee Pas ee . fo , . ~~ e _ ‘ a. ‘at bo ene
+are ° Vines ee oe rete oe oo Tey > ee a Nae oe ee a?
+" an . pp
+
+2026-07-22 01:19:20 | WARNING  | No name detected for 'scanned_record_5.pdf'. Using fallback name: Elizabeth_Appiah
+2026-07-22 01:19:20 | INFO     | 'scanned_record_5.pdf' -> 'Elizabeth_Appiah.pdf'
+2026-07-22 01:19:20 | INFO     | Processing 'scanned_record_6.pdf'...
+2026-07-22 01:19:31 | DEBUG    | OCR text from page 1 of 'C:\Users\Pc\Desktop\PDF_Name_Renamer\input_pdfs\scanned_record_6.pdf':
+EA h. , ai / Cy f/f 22 |
+1 | = ° ¢, CLINICAL HISTORY e TREATMENT e PR — T
+,- MINIstry CPHEALTH = [ext = bison oe eae CT «Se ae Se
+PP No me he pic SCC stoc AS
+aot : Other Names JNM eee oe
+M., ) 2nd O.p No. Be Zh Ce Sees Swe | | |
+ae f j Address (Home) _ Thm — Tite! 6 ai O ~# . -
+| i Of Llhiqeo Address (Employer) ae eT RES het ~~ ‘,
+! Non-Paying Age First Diagnosic Geese ges ey RS mo
+Sk Ce Or pla AI Kyisk{ -
+DATE e DIAGNOsIs e CLINICAL HisToRy ¢ SEATMENT © PRESCRIPTION ae D teal f / Se 5 _
+| pulse ey, Ate .
+Wal Fy a BS = pele a (Oo moe; Peng .
+| [1 | —_ J ADC af Ce RELINO, ly fo Oy fiende Reb LM . ;
+| ——————_
+
+2026-07-22 01:19:31 | WARNING  | No name detected for 'scanned_record_6.pdf'. Using fallback name: Daniel_Asante
+2026-07-22 01:19:31 | INFO     | 'scanned_record_6.pdf' -> 'Daniel_Asante.pdf'
+2026-07-22 01:19:31 | INFO     | Done. 6/6 PDF(s) processed successfully.
+2026-07-22 01:19:31 | INFO     | Renamed PDFs are in: C:\Users\Pc\Desktop\PDF_Name_Renamer\renamed_pdfs
